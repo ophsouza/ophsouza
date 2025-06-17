@@ -5,8 +5,10 @@
 ---
 
 🎓 **Engenheiro de Software** formado com forte background em Análise e Desenvolvimento de Sistemas.  
+
 🎯 Pós-graduações em **Backend**, **Cloud Computing**, **Redes de Computadores** e **Análise de Dados**.  
-🏭 Experiência prática em ambientes industriais com foco em **produção**, **automação** e **otimização de processos**.
+
+🏭 Experiência prática em ambientes industriais com foco em **produção**.
 
 ---
 
