@@ -30,4 +30,5 @@ Sou apaixonado por tecnologia e resolução de problemas. Tenho experiência em 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/ophsouza)
 
 ---
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ophsouza&theme=dark&show_icons=true)
